@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+<!DOCTYPE ordinateur SYSTEM 'ordinateur.dtd'>
+
+
+<ordinateur>
+    <boitier>
+        <cartemere>
+            <marque>Asus</marque>
+            <modele>Z690</modele>
+        </cartemere>
+        <cartegraphique>
+            <marque>Nvidia</marque>
+            <modele>1080ti</modele>
+            <ram>
+                <marque>Crucial</marque>
+                <modele>Ballistix BL2K8G36C16U4W</modele>
+                
+            </ram>
+        </cartegraphique>
+        
+        
+        
+        
+    </boitier>
+    
+</ordinateur>
+

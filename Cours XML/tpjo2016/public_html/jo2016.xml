@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE grille SYSTEM 'jo2016.dtd'>
+
+<grille>
+    <pays nom="USA">
+        <medals metal="or">46</medals>
+        <medals metal="argent">37</medals>
+        <medals metal="bronze">38</medals>
+        <total></total>
+    </pays>
+    <pays nom="GB">
+        <medals metal="or">27</medals>
+        <medals metal="argent">23</medals>
+        <medals metal="bronze">17</medals>
+        <total></total>
+    </pays>
+    <pays nom="Chine">
+        <medals metal="or">26</medals>
+        <medals metal="argent">18</medals>
+        <medals metal="bronze">26</medals>
+        <total></total>
+    </pays>
+    <pays nom="Russie">
+        <medals metal="or">19</medals>
+        <medals metal="argent">18</medals>
+        <medals metal="bronze">19</medals>
+        <total></total>
+    </pays>
+    <pays nom="Allemagne">
+        <medals metal="or">17</medals>
+        <medals metal="argent">10</medals>
+        <medals metal="bronze">15</medals>
+        <total></total>
+    </pays>
+    <pays nom="Japon">
+        <medals metal="or">12</medals>
+        <medals metal="argent">8</medals>
+        <medals metal="bronze">21</medals>
+        <total></total>
+    </pays>
+    <pays nom="France">
+           <medals metal="or">10</medals>
+        <medals metal="argent">18</medals>
+        <medals metal="bronze">14</medals>
+        <total></total>
+        <pays nom="Corée du sud">
+           <medals metal="or">9</medals>
+        <medals metal="argent">3</medals>
+        <medals metal="bronze">9</medals>
+        <total></total>
+         <pays nom="Italie">
+           <medals metal="or">8</medals>
+        <medals metal="argent">12</medals>
+        <medals metal="bronze">8</medals>
+        <total></total>
+         <pays nom="Australie">
+           <medals metal="or">8</medals>
+        <medals metal="argent">11</medals>
+        <medals metal="bronze">10</medals>
+        <total></total>
+        
+        
+        
+        
+        
+        
+    </pays>
+ 
+</grille>

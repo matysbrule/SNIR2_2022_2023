@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!ELEMENT grille (pays)*>
+
+
+<!ELEMENT pays (medals,medals,medals,total)>
+<!ELEMENT medals (#PCDATA)>
+<!ELEMENT total (#PCDATA)>
+
+<!ATTLIST pays nom (France|Russie|Allemagne|GB|USA|Chine|Japon|CoreeDuSud|Italie|Australie) #REQUIRED>
+
+
+<!ATTLIST medals metal (or|argent|bronze) #REQUIRED>

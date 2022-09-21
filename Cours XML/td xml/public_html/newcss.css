@@ -1,0 +1,53 @@
+body{
+    margin: 20px;
+}
+
+table{
+ border-collapse: collapse;  
+  border: 2px ridge black;
+}
+
+td{
+      border: 1px solid grey;
+      text-align: center;
+      padding: 5px;
+}
+td.auteur{
+    background-color: #ccffcc;
+}
+
+td.pasauteur{
+    color: white;
+}
+
+td.titre{
+    background-color: #ffcccc;
+}
+
+td.numero{
+    background-color: #ccccff;
+}
+
+td.pasnumero{
+    background-color: white;
+    color: white;
+}
+
+td.litterature{
+    background-color: #00ffff;
+    
+}
+td.manuelScolaire{
+    background-color: #ffff00;
+}
+td.periodique{
+    background-color: #ff00ff;
+    
+}
+td.scienceEtTechnique{
+    background-color: #00ff00;
+    
+}
+td.autre{
+    background-color: #0000ff;
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+<!DOCTYPE lycee SYSTEM 'lycee.dtd'>
+
+
+<lycee>
+    <classe>
+        <eleve>
+            <nom>Bidochon</nom>
+            <prenom>robert</prenom>
+            <age>54</age>
+        </eleve>
+        <eleve>
+            <nom>galopin</nom>
+            <prenom>raymonde</prenom>
+            <age>52</age>
+        </eleve>
+        <prof>
+            <nom>lang</nom>
+            <prenom>jack</prenom>
+            <age>60</age>
+        </prof>
+        
+    </classe>
+    
+</lycee>
+
